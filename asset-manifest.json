@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/sem-processo-test/static/js/main.ffb1c7a7.chunk.js",
+    "main.js.map": "/sem-processo-test/static/js/main.ffb1c7a7.chunk.js.map",
+    "runtime-main.js": "/sem-processo-test/static/js/runtime-main.cc93a403.js",
+    "runtime-main.js.map": "/sem-processo-test/static/js/runtime-main.cc93a403.js.map",
+    "static/js/2.6fd66f94.chunk.js": "/sem-processo-test/static/js/2.6fd66f94.chunk.js",
+    "static/js/2.6fd66f94.chunk.js.map": "/sem-processo-test/static/js/2.6fd66f94.chunk.js.map",
+    "index.html": "/sem-processo-test/index.html",
+    "precache-manifest.20296ad4fe7fb623e2ce15c830235cd5.js": "/sem-processo-test/precache-manifest.20296ad4fe7fb623e2ce15c830235cd5.js",
+    "service-worker.js": "/sem-processo-test/service-worker.js",
+    "static/js/2.6fd66f94.chunk.js.LICENSE.txt": "/sem-processo-test/static/js/2.6fd66f94.chunk.js.LICENSE.txt",
+    "static/media/Android.svg": "/sem-processo-test/static/media/Android.a245d124.svg",
+    "static/media/Cisco.svg": "/sem-processo-test/static/media/Cisco.8620f13e.svg",
+    "static/media/DirectorPhoto.svg": "/sem-processo-test/static/media/DirectorPhoto.a47ed923.svg",
+    "static/media/ImageBanner.svg": "/sem-processo-test/static/media/ImageBanner.a1df6f46.svg",
+    "static/media/MAQs.svg": "/sem-processo-test/static/media/MAQs.7c95d0d0.svg",
+    "static/media/Medal.svg": "/sem-processo-test/static/media/Medal.a154b4db.svg",
+    "static/media/Oracle.svg": "/sem-processo-test/static/media/Oracle.d1d312e9.svg",
+    "static/media/Python.svg": "/sem-processo-test/static/media/Python.254f2109.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc93a403.js",
+    "static/js/2.6fd66f94.chunk.js",
+    "static/js/main.ffb1c7a7.chunk.js"
+  ]
+}
